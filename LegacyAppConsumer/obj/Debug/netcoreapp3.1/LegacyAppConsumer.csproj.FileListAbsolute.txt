@@ -16,3 +16,21 @@
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyAppConsumer/obj/Debug/netcoreapp3.1/LegacyAppConsumer.dll
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyAppConsumer/obj/Debug/netcoreapp3.1/LegacyAppConsumer.pdb
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyAppConsumer/obj/Debug/netcoreapp3.1/LegacyAppConsumer.genruntimeconfig.cache
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.exe
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.deps.json
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.runtimeconfig.json
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.runtimeconfig.dev.json
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.dll
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.pdb
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyApp.dll
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyApp.pdb
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.csproj.AssemblyReference.cache
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.AssemblyInfoInputs.cache
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.AssemblyInfo.cs
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.csproj.CoreCompileInputs.cache
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.sourcelink.json
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAp.849358D5.Up2Date
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.dll
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.pdb
+C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.genruntimeconfig.cache
