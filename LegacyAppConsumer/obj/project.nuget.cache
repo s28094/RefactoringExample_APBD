@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BgQ8w6FZv6DCdo6VmNCu2N/HVPhGkLpmbDqc8Nlh11qoJS3PR9DpXbTfRdmGo6skm5IAblUsBMOx1CJmCImR4g==",
+  "dgSpecHash": "rpSJ060JGsbx40oV9ohOUNA/hluLYbOnL1WHCUQog4GMIdo004naah2D0kQDjBrpDurvvrUQNQ8S3niEflmb7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s28094\\Downloads\\zadanie_with_initial_tests (1)\\zadanie_solution\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+  "projectFilePath": "C:\\Users\\Bruno\\RiderProjects\\RefactoringExample_APBD\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\s28094\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\s28094\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\s28094\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\s28094\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }

@@ -18,3 +18,13 @@ C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\Legacy
 C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.sourcelink.json
 C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.dll
 C:\Users\s28094\Downloads\zadanie_with_initial_tests (1)\zadanie_solution\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.pdb
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\bin\Debug\netcoreapp3.1\LegacyApp.deps.json
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\bin\Debug\netcoreapp3.1\LegacyApp.dll
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\bin\Debug\netcoreapp3.1\LegacyApp.pdb
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.AssemblyInfo.cs
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.sourcelink.json
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.dll
+C:\Users\Bruno\RiderProjects\RefactoringExample_APBD\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.pdb
